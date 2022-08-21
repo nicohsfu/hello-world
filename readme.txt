@@ -1,0 +1,1 @@
+read me sample file for the "git-it" exercise
